@@ -14,11 +14,11 @@ const Footer = () => {
                 <div className="footer__content__logo">
                     <div className="logo">
                         <img src={logo} alt="" />
-                        <Link to="/">tMovies</Link>
+                        {/* <Link to="/">tMovies</Link> */}
                     </div>
                 </div>
                 <div className="footer__content__menus">
-                    <div className="footer__content__menu">
+                    {/* <div className="footer__content__menu">
                         <Link to="/">Home</Link>
                         <Link to="/">Contact us</Link>
                         <Link to="/">Term of services</Link>
@@ -34,7 +34,7 @@ const Footer = () => {
                         <Link to="/">You must watch</Link>
                         <Link to="/">Recent release</Link>
                         <Link to="/">Top IMDB</Link>
-                    </div>
+                    </div> */}
                 </div>
             </div>
         </div>
